@@ -20,8 +20,8 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
@@ -30,14 +30,14 @@ Tipo/Género:
 
 
 ### Personaje
+![ANTONIO 3](https://github.com/user-attachments/assets/c5c21d27-0004-4afb-9b50-24b3a267353c)
 
-![](img-nobody.png)
-
-Nombre: 
+Nombre: Antonio
 
 
 ### Historia
-
+20 años que vive en un entorno católico y conservador, durante una crisis de identidad conoce el mundo drag a través de un inesperado personaje.
+Antonio vive en Madrid con su familia, en una gran casa situada en un buen barrio. Actualmente se encuentra estudiando la carrera de ingeniería industrial  pero no es su pasión. Tras la muerte de su madre, Antonio atraviesa una crisis con su círculo de amigos y su familia, un entorno hostil e inseguro. Antonio se encuentra perdido pero poco a poco guiado por un nuevo personaje que conocerá pronto, descubre su camino. 
 
 ### TagLine
 
