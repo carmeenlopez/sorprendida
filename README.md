@@ -32,9 +32,11 @@ Antonio, un joven de familia conservadora, vive en un barrio acomodado y estudia
 Mientras descubre su identidad en los camerinos de un club nocturno, Antonio tendrá que enfrentarse al rechazo de su familia, el miedo a ser descubierto y la presión de una sociedad que se debate entre el progreso y el retroceso.
 
 ### Personaje
+Nombre: Antonio
 ![ANTONIO 3](https://github.com/user-attachments/assets/c5c21d27-0004-4afb-9b50-24b3a267353c)
 
-Nombre: Antonio
+Nombre: Padre Mateo 
+
 
 ### Contexto
 Nuestra historia trascurre la actualidad en la ciudad de Madrid,España. Madrid es la ciudad de la modernidad y la libertad done el mundo queer y la escena drag florecen con su estética kitsch, exagerada y provocadora, pero mientras la ultraderecha gana terreno en España y Europa, promoviendo discursos de odio y ataques contra la diversidad.
