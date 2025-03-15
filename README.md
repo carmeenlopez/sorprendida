@@ -27,13 +27,17 @@ Tipo/Género:
 
 
 ## Resumen
+Antonio, un joven de familia conservadora, vive en un barrio acomodado y estudia una carrera que no le apasiona. Tras la muerte de su madre, su mundo se desmorona y empieza a cuestionarse a sí mismo. En su búsqueda de respuestas, acude a confesarse con el cura de su iglesia, un hombre que, lejos de condenarlo, le abre las puertas a un universo nuevo: el mundo del drag.
 
+Mientras descubre su identidad en los camerinos de un club nocturno, Antonio tendrá que enfrentarse al rechazo de su familia, el miedo a ser descubierto y la presión de una sociedad que se debate entre el progreso y el retroceso.
 
 ### Personaje
 ![ANTONIO 3](https://github.com/user-attachments/assets/c5c21d27-0004-4afb-9b50-24b3a267353c)
 
 Nombre: Antonio
 
+### Contexto
+Nuestra historia trascurre la actualidad en la ciudad de Madrid,España. Madrid es la ciudad de la modernidad y la libertad done el mundo queer y la escena drag florecen con su estética kitsch, exagerada y provocadora, pero mientras la ultraderecha gana terreno en España y Europa, promoviendo discursos de odio y ataques contra la diversidad.
 
 ### Historia
 Antonio es un chico de 20 años que vive en un entorno católico y conservador, durante una crisis de identidad conoce el mundo drag a través de un inesperado personaje.
