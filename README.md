@@ -11,8 +11,8 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 - :man: Carmen Lopez 
-- :woman: Jimena
-- :woman: Pablo 
+- :woman: Jimena Martín 
+- :woman: Pablo Martín
 
 
 Proyecto (código): 
@@ -36,13 +36,21 @@ Nombre: Antonio
 
 
 ### Historia
-20 años que vive en un entorno católico y conservador, durante una crisis de identidad conoce el mundo drag a través de un inesperado personaje.
-Antonio vive en Madrid con su familia, en una gran casa situada en un buen barrio. Actualmente se encuentra estudiando la carrera de ingeniería industrial  pero no es su pasión. Tras la muerte de su madre, Antonio atraviesa una crisis con su círculo de amigos y su familia, un entorno hostil e inseguro. Antonio se encuentra perdido pero poco a poco guiado por un nuevo personaje que conocerá pronto, descubre su camino. 
+Antonio es un chico de 20 años que vive en un entorno católico y conservador, durante una crisis de identidad conoce el mundo drag a través de un inesperado personaje.
+Antonio vive en Madrid con su familia, en una gran casa situada en un buen barrio. Actualmente se encuentra estudiando la carrera de ingeniería industrial  pero no es su pasión. Tras la muerte de su madre, Antonio atraviesa una crisis con su círculo de amigos y su familia, un entorno hostil e inseguro. Antonio se encuentra perdido pero poco a poco sera guiado por un nuevo personaje que conocerá pronto, y descubrira su camino. 
 
 ### TagLine
-
+"Cuando la fe y la libertad se encuentran en un camerino, Antonio descubrirá que el verdadero pecado es no ser uno mismo."
 
 ### Conflicto 
+1-Crisis de Identidad y Choque Cultural:
+Criado en una familia conservadora, Antonio ha interiorizado la culpa y el miedo al qué dirán. Sin embargo, tras la muerte de su madre, se siente vacío y perdido, lo que lo lleva a cuestionar su verdadera identidad. El mundo drag, que conoce a través de un personaje inesperado (el cura de su parroquia), le ofrece un refugio lleno de libertad. Sin embargo, la estética kitsch de este universo contrasta brutalmente con la sobriedad y la rigidez de su entorno familiar.
+
+2-Conflicto Familiar y Rechazo Social:
+Su padre, un empresario con fuertes lazos con la ultraderecha española, empieza a notar los cambios en Antonio y reacciona con violencia verbal y emocional. Su hermano mayor, un joven que representa el modelo de "hombre de bien" según su familia, lo desprecia y lo ridiculiza.
+
+3-Doble Vida y Descubrimiento Personal:
+Antonio comienza a llevar una doble vida: de día, es el estudiante de ingeniería con apariencia intachable, pero de noche, empieza a explorar el mundo del drag. Su guía en este viaje  lo ayuda a entender que el kitsch y el exceso pueden ser una forma de resistencia y expresión.Sin embargo, el miedo al descubrimiento lo consume. Cada salida al club, cada prenda de ropa escondida en su armario es un riesgo.
 
 
 ### Productos
