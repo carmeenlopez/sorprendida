@@ -31,11 +31,20 @@ Antonio, un joven de familia conservadora, vive en un barrio acomodado y estudia
 
 Mientras descubre su identidad en los camerinos de un club nocturno, Antonio tendrá que enfrentarse al rechazo de su familia, el miedo a ser descubierto y la presión de una sociedad que se debate entre el progreso y el retroceso.
 
-### Personaje
+### Personajes
 Nombre: Antonio
+
 ![ANTONIO 3](https://github.com/user-attachments/assets/c5c21d27-0004-4afb-9b50-24b3a267353c)
 
 Nombre: Padre Mateo 
+
+![cura 3](https://github.com/user-attachments/assets/7f877f33-1b88-49f8-bc63-8a070a15fab0)
+
+### Fichas personajes 
+
+[Antonio (2).pdf](https://github.com/user-attachments/files/19274358/Padre.mateo.2.pdf)
+
+[Padre mateo (1).pdf](https://github.com/user-attachments/files/19274359/Padre.mateo.1.pdf)
 
 
 ### Contexto
