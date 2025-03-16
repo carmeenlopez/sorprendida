@@ -41,10 +41,10 @@ Nombre: Padre Mateo
 ![cura 3](https://github.com/user-attachments/assets/7f877f33-1b88-49f8-bc63-8a070a15fab0)
 
 ### Fichas personajes 
+![Captura de pantalla 2025-03-16 202404](https://github.com/user-attachments/assets/b55b0505-24cf-43a8-9179-defad60976b8)
 
-[Antonio (2).pdf](https://github.com/user-attachments/files/19274358/Padre.mateo.2.pdf)
+![Captura de pantalla 2025-03-16 202525](https://github.com/user-attachments/assets/c31bc134-0441-4d56-9f3f-82518dc65269)
 
-[Padre mateo (1).pdf](https://github.com/user-attachments/files/19274359/Padre.mateo.1.pdf)
 
 
 ### Contexto
