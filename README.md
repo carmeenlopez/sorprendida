@@ -10,9 +10,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Carmen Lopez 
-- :woman: Jimena Martín 
-- :woman: Pablo Martín
+- 👱‍♀️man: Carmen Lopez 
+- 👩‍🦰: Jimena Martín 
+- 👨: Pablo Martín
 
 
 Proyecto (código): 
@@ -73,7 +73,7 @@ Su ralacion con Antonio tambien supone un peligro para el, si la comunida de la 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: ([img personaje y enlace a interactivo](https://app.Lumi.education/run/rVaHHh)) 
 
 
 - Banner/Teaser:  (enlace) 
