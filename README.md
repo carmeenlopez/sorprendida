@@ -58,16 +58,16 @@ Antonio vive en Madrid con su familia, en una gran casa situada en un buen barri
 "Cuando la fe y la libertad se encuentran en un camerino, Antonio descubrirá que el verdadero pecado es no ser uno mismo."
 
 ### Conflictos 
-1-Crisis de Identidad y Choque Cultural:
+1-Crisis de identidad y choque cultural:
 Criado en una familia conservadora, Antonio ha interiorizado la culpa y el miedo al qué dirán. Sin embargo, tras la muerte de su madre, se siente vacío y perdido, lo que lo lleva a cuestionar su verdadera identidad. El mundo drag, que conoce a través de un personaje inesperado (el cura de su parroquia), le ofrece un refugio lleno de libertad. Sin embargo, la estética kitsch de este universo contrasta brutalmente con la sobriedad y la rigidez de su entorno familiar.
 
-2-Conflicto Familiar y Rechazo Social:
+2-Conflicto familiar y rechazo social:
 Su padre, un empresario con fuertes lazos con la ultraderecha española, empieza a notar los cambios en Antonio y reacciona con violencia verbal y emocional. Su hermano mayor, un joven que representa el modelo de "hombre de bien" según su familia, lo desprecia y lo ridiculiza.
 
-3-Doble Vida y Descubrimiento Personal:
+3-Doble vida y descubrimiento personal:
 Antonio comienza a llevar una doble vida: de día, es el estudiante de ingeniería con apariencia intachable, pero de noche, empieza a explorar el mundo del drag. Su guía en este viaje  lo ayuda a entender que el kitsch y el exceso pueden ser una forma de resistencia y expresión.Sin embargo, el miedo al descubrimiento lo consume. Cada salida al club, cada prenda de ropa escondida en su armario es un riesgo.
 
-4-El Secreto del Cura y Su Propia Historia:
+4-El secreto del cura y su propia historia:
 El padre Mateo en su juventud tuvo que elegir entre su identidad y su vocación religiosa, y aunque sigue siendo parte de la Iglesia, ha encontrado una forma de reconciliar ambas cosas ayudando a personas como Antonio.
 Su ralacion con Antonio tambien supone un peligro para el, si la comunida de la Iglesia descubre que ha llevado a este chico a un local drag la noticia causaria un gran revuelo y desconcierto en el mundo del catolicismo.
 
