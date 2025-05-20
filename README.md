@@ -73,10 +73,10 @@ Su ralacion con Antonio tambien supone un peligro para el, si la comunida de la 
 
 ### Productos
 
-- Personaje: ([img personaje y enlace a interactivo](https://app.Lumi.education/run/rVaHHh)) 
+- Personaje 👱‍♂️ : ([img personaje y enlace a interactivo](https://app.Lumi.education/run/rVaHHh)) 
 
 
-- Banner/Teaser: Cotillea el Tik tok de Sorprendida: https://www.figma.com/proto/R5rUHXzlFRZLVHzqEjqGdY/TikTok-UI-Screens--Community-?node-id=1127-5&t=7yYr3Kvr4dwi2La1-1&scaling=scale-down&content-scaling=fixed&page-id=1120%3A2&starting-point-node-id=1120%3A91
+- Banner/Teaser 👠 : Cotillea el Tik tok de Sorprendida: https://www.figma.com/proto/R5rUHXzlFRZLVHzqEjqGdY/TikTok-UI-Screens--Community-?node-id=1127-5&t=7yYr3Kvr4dwi2La1-1&scaling=scale-down&content-scaling=fixed&page-id=1120%3A2&starting-point-node-id=1120%3A91
 
 
 - Storytelling: Juega con Antonio en ArcWeave 🎮 : https://pablodemoragas.itch.io/sorprendida 
